@@ -26,6 +26,16 @@ The simple Assignment operator is (=).
 8. what is postfix and prefix in increment and decrement ?
 => postfix first print expression and then do increment/decrement and prefix means first increment/decrement then print expression.
 
+9.what is comparision operator?
+=> A comparision operator compare its operands and returns 
+a logical value Based on comparision is true.
+
+10.what is logical operator?
+=>Logical operator are typically used with Boolean value
+when they are ,they returns boolean value.
+
+11.What is concatination operator?
+=>concatination operator (+) concate / join two string.
 
 /*****************Advance JAVASCRIPT************************/
 What is global space in js?

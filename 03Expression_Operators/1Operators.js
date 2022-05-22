@@ -14,6 +14,8 @@ console.log("is both the x and y anr equal " + x == y);
 console.log(`is both the x and y anr equal : ${x == y}`);
 */
 
+
+/***********************Arithmatic Operator***********************/
 /*
 console.log(3+3);
 console.log(10-5);
@@ -29,7 +31,7 @@ console.log("Reminder Operator Reminder:" + 575%8);
 // the increment operator increments and return the value before incrementing.
 // post fix 
 
-/*
+
 var num = 15;
 var newNum = num++;  
 console.log(num);     //16 num is incremented
@@ -39,7 +41,7 @@ var num = 15;
 var newNum = ++num;
 console.log(num);     //16
 console.log(newNum);  //16 first increment then print
-*/
+
 
 // Post increment operator means the expression is evaluated
 // first using the original value of the variable and then the
