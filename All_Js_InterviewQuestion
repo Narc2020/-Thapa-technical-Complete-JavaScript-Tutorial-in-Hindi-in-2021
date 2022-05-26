@@ -36,6 +36,29 @@ when they are ,they returns boolean value.
 
 11.What is concatination operator?
 =>concatination operator (+) concate / join two string.
+/****************ControlStatementsAndLoops************************/
+
+12.What are falsy value in Javascript?
+=>we have total 5 falsy value in js (0," ",undefined,null,NaN,false**)
+
+13. What is the conditional (ternary) operator?
+=>The conditional (ternary) operator is the only javascript operator that takes three operands
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 /*****************Advance JAVASCRIPT************************/
 What is global space in js?
